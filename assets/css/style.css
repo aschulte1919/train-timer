@@ -1,0 +1,8 @@
+.container{
+    font-family: 'Montserrat', sans-serif;
+}
+#header, #bodyhead{
+    background-color: grey;
+    border-color: grey;
+}
+
